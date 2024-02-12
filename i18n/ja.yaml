@@ -1,8 +1,10 @@
 - id: warning
-  translation: "警告"
+  translation: "注意"
 - id: note
-  translation: "ノート"
+  translation: "メモ"
 - id: info
   translation: "情報"
 - id: tip
   translation: "ヒント"
+- id: error
+  translation: "警告"
